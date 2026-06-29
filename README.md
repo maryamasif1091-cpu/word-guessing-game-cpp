@@ -69,7 +69,7 @@ This is a console-based Word Guessing Game developed in C++ using Object-Oriente
 - Easy_levels → Implements easy mode logic
 - Difficult_levels → Implements hard mode logic
 
-## ⚙️ How to Compile and Run
+##  How to Compile and Run
 
 ### Compile:
 g++ source.cpp source1.cpp -o game
@@ -82,7 +82,7 @@ g++ source.cpp source1.cpp -o game
 - hard_words.txt → 50 words (5–7 letters)
 - scores.txt → Automatically generated for storing scores
 
-## 📝 Notes
+##  Notes
 - ANSI escape codes are used for console colors
 - Dynamic memory is properly managed (allocation/deallocation)
 - Exception handling is implemented for safety
